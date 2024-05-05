@@ -1178,7 +1178,7 @@ void startgame(){
         int RowShadeVarietyScore2=scoreRowShadeVariety(&player2);
         printf(G"Score from Row Shade Variety:\n"RESET);
         printf(DG"For Player 1:"RESET" %d\n",RowShadeVarietyScore1);
-        printf(DG"For Player 2:"RESET"%d\n\n",RowShadeVarietyScore2);
+        printf(DG"For Player 2:"RESET" %d\n\n",RowShadeVarietyScore2);
         TotalScore1+=RowShadeVarietyScore1;
         TotalScore2+=RowShadeVarietyScore2;
         sleep(2);
