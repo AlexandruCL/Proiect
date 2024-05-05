@@ -1,0 +1,9 @@
+1)Column Color Variety: Columns with no repeated colors. 5 POINTS.
+2)Row Color Variety: Rows with no repeated colors. 6 POINTS.
+3)Color Variety: Sets of one of each color anywhere. 4 POINTS.
+4)Light Shades: Sets of 1 & 2 values anywhere. 2 POINTS.
+5)Medium Shades: Sets of 3 & 4 values anywhere. 2 POINTS.
+6)Deep Shades: Sets of 5 & 6 values anywhere. 2 POINTS.
+7)Column Shade Variety: Columns with no repeated shades. 4 POINTS.
+8)Row Shade Variety: Rows with no repeated shades. 5 POINTS.
+9)Shade Variety: Sets of 1 of each shade. 5 POINTS.
