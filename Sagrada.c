@@ -244,6 +244,7 @@ void printLayout(char layout[ROWS][COLUMNS][4]){
         printf("\n");
     }
 }
+
 void selectRandomLayouts(char selectedLayouts[][ROWS][COLUMNS][4],char layouts[][ROWS][COLUMNS][4]){
     srand(time(NULL));
     int randomindex1=rand() % NR_LAYOUTS;
