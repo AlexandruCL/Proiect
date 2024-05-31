@@ -18,7 +18,7 @@
 #define ROWS 4
 #define COLUMNS 5
 #define DICE_NR 5
-#define NUM_ROUNDS 1
+#define NUM_ROUNDS 2
 #define NR_LAYOUTS 6
 #define NUM_PUBLIC_GOALS 9
 #define NUM_SELECTED_PUBLIC_GOALS 3
